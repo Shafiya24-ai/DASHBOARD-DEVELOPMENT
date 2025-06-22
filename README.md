@@ -81,5 +81,10 @@ The dashboard is especially useful for sales analysts, marketing teams, and busi
 Instead of static reports, this dashboard provides real-time, interactive insights with minimal technical skill required to operate.
 
 ### Output:
+
+![Image](https://github.com/user-attachments/assets/bb70eaf6-f4a2-4c96-8cad-c36ba9dccc37)
+![Image](https://github.com/user-attachments/assets/8f62d08d-9878-456e-b92f-52262baeecab)
+![Image](https://github.com/user-attachments/assets/773c98be-c689-4346-8aac-d05a9c8aa076)
+![Image](https://github.com/user-attachments/assets/e7bd8b18-5198-4437-a1cb-5b62f771e78e)
    
 
